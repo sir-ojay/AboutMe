@@ -25,7 +25,7 @@ I'm a Frontend Engineer with 2 years plus of building experience.
 
 :mailbox: Looking for me!
 
-[![Twitter Badge](https://img.shields.io/badge/-@sir-ojay-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ibrahimsannu) [![Linkedin Badge](https://img.shields.io/badge/-Sannu_Ibrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-sannu-b5bb70149/
+[![Twitter Badge](https://img.shields.io/badge/-@ibrahimsannu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/ibrahimsannu) [![Linkedin Badge](https://img.shields.io/badge/-Sannu_Ibrahim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-sannu-b5bb70149/
 )
 
 #### Top Technologies and Stack ⚡️
