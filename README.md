@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Ojay
 
 <!--
-**Sir-ojay/AboutMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sir-ojay/sir-ojay
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
