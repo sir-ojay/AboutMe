@@ -90,18 +90,7 @@ src="https://img.shields.io/github/followers/sir-ojay?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left">
- <a href="https://twitter.com/anjantalatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anjantalatam" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/anjan-talatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjan-talatam" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/14853666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14853666" height="30" width="40" /></a>
-  <a href="https://codepen.io/anjan_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anjan_17" height="30" width="40" /></a>
-  <a href="https://codesandbox.com/anjan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="anjan" height="30" width="40" /></a>
-    <a href="https://instagram.com/anjantalatam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjantalatam" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/gana2117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gana2117" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/anjan2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="anjan2002" height="30" width="40" /></a>
-
-</p>
 
 ## ✍️ Latest Stack Overflow Activities
 
