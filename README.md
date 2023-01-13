@@ -88,13 +88,6 @@ src="https://img.shields.io/github/followers/sir-ojay?logo=github&style=for-the-
 </details>
 
 
-### Socials
-
-
-
-## ✍️ Latest Stack Overflow Activities
-
-<img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=14853666" height = "220"/>
 
 
 
