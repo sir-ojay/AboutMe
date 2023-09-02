@@ -38,7 +38,7 @@ src="https://img.shields.io/github/followers/sir-ojay?logo=github&style=for-the-
 
 - 👨‍💻 Doing Front-End in React and Typescript
 
-- 🤓 I’m currently learning 🧠  **D.S.A**
+- 🤓 I’m currently learning 🧠  **Nodejs**
 
 - 🚀 Very excited to Learn and Grow as a Full Stack Developer
 
@@ -48,7 +48,6 @@ src="https://img.shields.io/github/followers/sir-ojay?logo=github&style=for-the-
 
 - 📫 Let's have a Convo **<a href="https://twitter.com/messages/compose?recipient_id=1289945210852581376" target="_blank"> Here </a>**
 
-- 🖥️  See my portfolio at [my personal portfolio](https://myportfolio-ojay.netlify.app/)
 
 - ✉️  You can contact me at [prince.ibrahim76@gmail.com](mailto:prince.ibrahim76@gmail.com)
 
