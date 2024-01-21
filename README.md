@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there👋, I'm Ojay  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi"></h1>
-<h4 align="center">React-TS Developer </h4>
+<h4 align="center">Software Defveloper </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-ojay&label=Profile%20views&color=0e75b6&style=flat" alt="sir-ojay" /> </p>
 
@@ -38,13 +38,9 @@ src="https://img.shields.io/github/followers/sir-ojay?logo=github&style=for-the-
 
 - 👨‍💻 Doing Front-End in React and Typescript
 
-- 🤓 I’m currently learning 🧠  **Nodejs**
-
-- 🚀 Very excited to Learn and Grow as a Full Stack Developer
-
 - 🛄 All of my projects are available at [https://github.com/sir-ojay](https://github.com/sir-ojay)
 
-- 💬 Ask me about **React, Time Management**
+- 💬 Ask me about **React,TypeScript, Node.js, Time Management**
 
 - 📫 Let's have a Convo **<a href="https://twitter.com/messages/compose?recipient_id=1289945210852581376" target="_blank"> Here </a>**
 
