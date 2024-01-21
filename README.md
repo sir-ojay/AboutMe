@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there👋, I'm Ojay  <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi"></h1>
-<h4 align="center">Software Defveloper </h4>
+<h4 align="center">Software Developer </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-ojay&label=Profile%20views&color=0e75b6&style=flat" alt="sir-ojay" /> </p>
 
@@ -35,8 +35,6 @@ src="https://img.shields.io/github/followers/sir-ojay?logo=github&style=for-the-
 
 
 <i><h4>I love to learn new Tech, do projects and share my experience in this non-ending journey.</h4> </i>
-
-- 👨‍💻 Doing Front-End in React and Typescript
 
 - 🛄 All of my projects are available at [https://github.com/sir-ojay](https://github.com/sir-ojay)
 
